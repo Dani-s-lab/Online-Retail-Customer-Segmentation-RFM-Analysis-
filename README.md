@@ -45,7 +45,7 @@ Exploratory analysis of the *Online Retail II (UCI)* dataset using SQL (PostgreS
 ## 🎯 RFM Segmentation
 
 ### RFM Table  
-![RFM Table](images/RFM_Table.png)
+![RFM Table](images/RFM_table.png)
 
 ## 🔑 Key Insights
 
