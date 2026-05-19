@@ -28,7 +28,7 @@ Exploratory analysis of the *Online Retail II (UCI)* dataset using SQL (PostgreS
 ## 📈 KPI Analysis
 
 ### 1) Top Products by Revenue
-<img src="images/top_products_revenue.png" width="300">
+<img src="images/top_products_revenue.png" width="320">
 
 ### 2) Top Customers by Revenue
 <img src="images/top_customers_revenue.png" width="300">
@@ -45,7 +45,7 @@ Exploratory analysis of the *Online Retail II (UCI)* dataset using SQL (PostgreS
 ## 🎯 RFM Segmentation
 
 ### RFM Table
-<img src="images/RFM_table.png" width="300">
+<img src="images/RFM_table.png" width="320">
 
 ## 🔑 Key Insights
 
