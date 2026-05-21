@@ -1,10 +1,10 @@
 # 🛒 Online Retail — Customer Segmentation (RFM Analysis with SQL)
 
 ## 📊 Overview
-Exploratory analysis of the *Online Retail II (UCI)* dataset using SQL (PostgreSQL + pgAdmin4), aimed at providing a clear overview of sales, identifying recurring patterns, and segmenting customers based on their behavior (RFM).
+Exploratory analysis of the *Online Retail II (UCI)* dataset using SQL (PostgreSQL + pgAdmin4), focused on uncovering sales trends, customer behaviors, and segmenting users through the RFM model.
 
 - Analysis performed entirely in SQL  
-- Computation of key KPIs on products, customers, time and countries  
+- Computation of key KPIs across products, customers, time and countries  
 - Customer segmentation using the RFM model  
 - Identification of the most relevant purchasing patterns  
 
@@ -14,7 +14,7 @@ Exploratory analysis of the *Online Retail II (UCI)* dataset using SQL (PostgreS
 - Removal of duplicates and invalid records  
 - Handling of missing values  
 - Identification of returns and non‑valid transactions  
-- Creation of derived metrics (e.g., total price)  
+- Creation of derived metrics
 
 ### KPI Computation
 - Aggregations by product, customer, month and country  
@@ -67,4 +67,4 @@ The RFM segmentation reveals a polarized customer base: many *Lost* customers an
 ## 📦 Dataset
 - Name: *Online Retail II (UCI)*
 - Source: Kaggle
-- License: **CC0 – Public Domain**
+- License: CC0 – Public Domain
