@@ -67,4 +67,5 @@ The RFM segmentation reveals a polarized customer base: many *Lost* customers an
 ## 📦 Dataset
 - Name: *Online Retail II (UCI)*
 - Source: Kaggle
+- Data Period: 2010–2011
 - License: CC0 – Public Domain
