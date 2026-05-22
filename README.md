@@ -1,6 +1,7 @@
 # 🛒 Online Retail — Customer Segmentation (RFM Analysis with SQL)
 
 ## 📊 Overview
+
 Exploratory analysis of the *Online Retail II (UCI)* dataset using SQL (PostgreSQL + pgAdmin4), focused on uncovering sales trends, customer behaviors, and segmenting users through the RFM model.
 
 - Analysis performed entirely in SQL  
@@ -65,6 +66,7 @@ The highest‑value customer generates far more revenue than the tenth, indicati
 The RFM segmentation reveals a polarized customer base: many *Lost* customers and a strong group of *Loyal* customers, with few in the intermediate segments. This suggests a binary purchasing pattern (occasional vs habitual).
 
 ## 📦 Dataset
+
 - Name: *Online Retail II (UCI)*
 - Source: Kaggle
 - Data Period: 2010–2011
